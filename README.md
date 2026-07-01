@@ -1,5 +1,7 @@
 # Depths-Of-Endor-save-editor
 
+valid for version 5.7.0
+
 ------------
 Requirements
 ------------
